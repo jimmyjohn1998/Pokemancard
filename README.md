@@ -1,7 +1,11 @@
 # Pokemancard Android
-Pokeman Card View from JSON file
+Pokeman Card View with Details
+
+
 JSON
+
 Volley
+
 Picasso
 
 #ScreenShots
